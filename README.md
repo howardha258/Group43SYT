@@ -1,4 +1,4 @@
-# Group43SYT
+# Group 43 Project SYT
 
 Welcome to Share Your Thoughts, a online voting system software build by Group 43!
 Here is the instruction for installation:
